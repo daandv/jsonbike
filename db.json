@@ -79,6 +79,13 @@
       "price": 400,
       "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/women/sparkle1.png?raw=true"
+    },
+    {
+      "id": 1,
+      "name": "Dusty",
+      "price": 400,
+      "color": "pink",
+      "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/women/dusty1.png?raw=true"
     }
   ]
 }
