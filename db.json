@@ -6,7 +6,7 @@
       "name": "Breezer",
       "gender": "m",
       "price": 400,
-      "Color": "Red",
+      "color": "red",
       "image": "https://raw.githubusercontent.com/nxt-web-dev-3/opdracht-periode-2-daandv/master/src/img/bikes/men/breezer1.png"
     },
     {
@@ -14,7 +14,7 @@
       "name": "Fair",
       "gender": "m",
       "price": 400,
-      "Color": "Silver",
+      "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/fair1.png?raw=true"
     },
     {
@@ -22,7 +22,7 @@
       "name": "Fuji",
       "gender": "m",
       "price": 400,
-      "Color": "Silver",
+      "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/fuji1.png?raw=true"
     },
     {
@@ -30,7 +30,7 @@
       "name": "Genesis",
       "gender": "m",
       "price": 400,
-      "Color": "Silver",
+      "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/genesis1.png?raw=true"
     },
     {
@@ -38,7 +38,7 @@
       "name": "Iconic",
       "gender": "m",
       "price": 400,
-      "Color": "Silver",
+      "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/state1.png?raw=true"
     },
     {
@@ -46,7 +46,7 @@
       "name": "Incognito",
       "gender": "m",
       "price": 400,
-      "Color": "Yellow",
+      "color": "yellow",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/unknown1.png?raw=true"
     }
   ]
