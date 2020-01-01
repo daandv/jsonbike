@@ -1,10 +1,9 @@
 
 {
-  "bikes":[
+  "men":[
     {
       "id": 1,
       "name": "Breezer",
-      "gender": "m",
       "price": 400,
       "color": "red",
       "image": "https://raw.githubusercontent.com/nxt-web-dev-3/opdracht-periode-2-daandv/master/src/img/bikes/men/breezer1.png"
@@ -12,7 +11,6 @@
     {
       "id": 2,
       "name": "Fair",
-      "gender": "m",
       "price": 400,
       "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/fair1.png?raw=true"
@@ -20,7 +18,6 @@
     {
       "id": 3,
       "name": "Fuji",
-      "gender": "m",
       "price": 400,
       "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/fuji1.png?raw=true"
@@ -28,7 +25,6 @@
     {
       "id": 4,
       "name": "Genesis",
-      "gender": "m",
       "price": 400,
       "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/genesis1.png?raw=true"
@@ -36,7 +32,6 @@
     {
       "id": 5,
       "name": "Iconic",
-      "gender": "m",
       "price": 400,
       "color": "silver",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/state1.png?raw=true"
@@ -44,10 +39,25 @@
     {
       "id": 6,
       "name": "Incognito",
-      "gender": "m",
       "price": 400,
       "color": "yellow",
       "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/unknown1.png?raw=true"
     }
+  ],
+  "women":[
+    {
+      "id": 1,
+      "name": "Breezer",
+      "price": 400,
+      "color": "red",
+      "image": "https://raw.githubusercontent.com/nxt-web-dev-3/opdracht-periode-2-daandv/master/src/img/bikes/men/breezer1.png"
+    },
+    {
+      "id": 2,
+      "name": "Fair",
+      "price": 400,
+      "color": "silver",
+      "image": "https://github.com/nxt-web-dev-3/opdracht-periode-2-daandv/blob/master/src/img/bikes/men/fair1.png?raw=true"
+    },
   ]
 }
