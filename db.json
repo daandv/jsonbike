@@ -1,0 +1,26 @@
+[
+  {
+    id: 1,
+    name: "test",
+    gender: "m",
+    price: 400
+  },
+  {
+    id: 2,
+    name: "test2",
+    gender: "m",
+    price: 400
+  },
+  {
+    id: 3,
+    name: "test3"
+    gender: "m",
+    price: 400
+  },
+  {
+    id: 4,
+    name: "test4"
+    gender: "m",
+    price: 400
+  },
+]
