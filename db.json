@@ -58,7 +58,7 @@
   ],
   "women": [
     {
-      "id": 1,
+      "id": 7,
       "name": "Butterfly",
       "price": 400,
       "color": "silver",
@@ -67,7 +67,7 @@
       "image2": "https://shorturl.at/lGRT7"
     },
     {
-      "id": 2,
+      "id": 8,
       "name": "Columbia",
       "price": 400,
       "color": "blue",
@@ -76,7 +76,7 @@
       "image2": "https://shorturl.at/amvUV"
     },
     {
-      "id": 3,
+      "id": 9,
       "name": "Greta",
       "price": 400,
       "color": "silver",
@@ -85,7 +85,7 @@
       "image2": "https://shorturl.at/fmBS4"
     },
     {
-      "id": 4,
+      "id": 10,
       "name": "Lotte",
       "price": 400,
       "color": "white",
@@ -94,7 +94,7 @@
       "image2": "https://shorturl.at/amFQV"
     },
     {
-      "id": 5,
+      "id": 11,
       "name": "Sparkle",
       "price": 400,
       "color": "silver",
@@ -103,7 +103,7 @@
       "image2": "https://shorturl.at/jCO14"
     },
     {
-      "id": 6,
+      "id": 12,
       "name": "Dusty",
       "price": 400,
       "color": "pink",
@@ -114,7 +114,7 @@
   ],
   "kids": [
     {
-      "id": 1,
+      "id": 13,
       "name": "Belter",
       "price": 400,
       "color": "silver",
@@ -123,7 +123,7 @@
       "image2": "https://shorturl.at/rxA06"
     },
     {
-      "id": 2,
+      "id": 14,
       "name": "Bungi",
       "price": 400,
       "color": "yellow",
@@ -132,7 +132,7 @@
       "image2": "https://shorturl.at/orIP4"
     },
     {
-      "id": 3,
+      "id": 15,
       "name": "Earlywood",
       "price": 400,
       "color": "yellow",
@@ -141,7 +141,7 @@
       "image2": "https://shorturl.at/gwAY7"
     },
     {
-      "id": 4,
+      "id": 16,
       "name": "Mia",
       "price": 400,
       "color": "pink",
@@ -150,7 +150,7 @@
       "image2": "https://shorturl.at/kBFH2"
     },
     {
-      "id": 5,
+      "id": 17,
       "name": "Micky",
       "price": 400,
       "color": "blue",
@@ -159,7 +159,7 @@
       "image2": "https://shorturl.at/gnBH0"
     },
     {
-      "id": 6,
+      "id": 18,
       "name": "Woom",
       "price": 400,
       "color": "red",
