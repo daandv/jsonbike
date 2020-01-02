@@ -4,7 +4,7 @@
     {
       "id": 1,
       "name": "Breezer",
-      "price": 400,
+      "price": 369,
       "color": "red",
       "category": "m",
       "description": "Our do-it-all bike for tackling any terrain. Equipped with 45mm all-condition tires, wide-range gearing, rack & fender mounts and a compact geometry, the Radar easily covers rough roads and trails with ease. Whether it’s battling inner-city pot-holes or navigating mountain passes, the Radar is built for riders who don’t want to be limited by their bike when they go exploring. ",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "Fair",
-      "price": 580,
+      "price": 349,
       "color": "silver",
       "category": "m",
       "description": "Back by popular demand the Coaster returns in this Battleship Gray colorway. Always one of our favorite bikes, we’re glad to see the Coaster make it back into the line.",
@@ -24,7 +24,7 @@
     {
       "id": 3,
       "name": "Fuji",
-      "price": 400,
+      "price": 299,
       "color": "silver",
       "category": "m",
       "description": "A long-standing classic in the Fuji lineup, the Feather combines classic track geometry, a lightweight and comfortable steel frame and sophisticated styling into the standard for urban riding. Fast, fun and functional – that's the Feather.",
@@ -34,7 +34,7 @@
     {
       "id": 4,
       "name": "Genesis",
-      "price": 400,
+      "price": 579,
       "color": "silver",
       "category": "m",
       "description": "A dependable 1x9 Shimano Altus mix drivetrain makes it ideal for load-carrying urban errands and we've included practical touches like a portuer front rack, a subtly swept riser bar, full length mudguards, Shimano TX805 mechanical disc brakes and fast rolling, CST Sensamo Speed 700x35c tyres.",
@@ -44,7 +44,7 @@
     {
       "id": 5,
       "name": "Iconic",
-      "price": 400,
+      "price": 499,
       "color": "silver",
       "category": "m",
       "description": "This cult icon comes equipped with front and rear racks for added versatility during use in the city. The 8 speed Shimano Claris allows for uphill rides as well as trips outside the city. The classic semi-slope geometry, the attention to details – the Selle San Marco Regal saddle and matching bar tape - make this bicycle ideal for travel and perfectly suited for city riding.",
@@ -54,7 +54,7 @@
     {
       "id": 6,
       "name": "Incognito",
-      "price": 400,
+      "price": 349,
       "color": "yellow",
       "category": "m",
       "description": "This fixed gear bike is built on our signature pursuit frame. This frame is made from T6 Aluminum with wish with a uniquely rounded downtube that gradually flattens as it extends downward to join the bottom bracket.",
@@ -64,7 +64,7 @@
     {
       "id": 7,
       "name": "Butterfly",
-      "price": 400,
+      "price": 369,
       "color": "silver",
       "category": "f",
       "description": "Built to ride everyday – whatever the conditions, distances or reasons - these are bikes, designed by our London Team which will turn heads, allow you to fly around town and get you there in great shape.",
@@ -74,7 +74,7 @@
     {
       "id": 8,
       "name": "Columbia",
-      "price": 400,
+      "price": 459,
       "color": "blue",
       "category": "f",
       "description": "To describe the Columbia Road as a 'women's specific' bike would be doing this bike a huge disservice. It's true, the low diagonal toptube design was originally conceived for more flattering riding in skirts/dresses and easier mounts/dismounts (and the Columbia Rd does this very well), but look beyond that and you'll see the ideal, easy-access bicycle for both men and women alike.",
@@ -84,7 +84,7 @@
     {
       "id": 9,
       "name": "Greta",
-      "price": 400,
+      "price": 399,
       "color": "silver",
       "category": "f",
       "description": "Greta, Gustav's significant other, is our city all-rounder with woman's specific geometry. With its step-through frame, it’s easy to dismount, and — thanks to the Gates Carbon Belt Drive and every component necessary for city cycling — it’s ultra-low on maintenance too. Indeed Greta leaves nothing to be desired. ",
@@ -94,7 +94,7 @@
     {
       "id": 10,
       "name": "Lotte",
-      "price": 400,
+      "price": 349,
       "color": "white",
       "category": "f",
       "description": "Greta, Gustav's significant other, is our city all-rounder with woman's specific geometry. With its step-through frame, it’s easy to dismount, and — thanks to the Gates Carbon Belt Drive and every component necessary for city cycling — it’s ultra-low on maintenance too. Indeed Greta leaves nothing to be desired. ",
@@ -104,7 +104,7 @@
     {
       "id": 11,
       "name": "Sparkle",
-      "price": 400,
+      "price": 419,
       "color": "silver",
       "category": "f",
       "description": "The ladies' Caferacer Uno is a beautiful, classic “mixte” bike with a sensible price. It has all the features you need to ride every day with speed and comfort. The bike is full of great parts that will ensure smooth and efficient functioning. And it and looks unlike anything else on the market.",
@@ -114,7 +114,7 @@
     {
       "id": 12,
       "name": "Dusty",
-      "price": 400,
+      "price": 399,
       "color": "pink",
       "category": "f",
       "description": "Built to ride everyday – whatever the conditions, distances or reasons - these are bikes, designed by our London Team which will turn heads, allow you to fly around town and get you there in great shape.",
@@ -124,7 +124,7 @@
     {
       "id": 13,
       "name": "Belter",
-      "price": 400,
+      "price": 199,
       "color": "silver",
       "category": "k",
       "description": "The Early Rider Belter 16 Urban, our best selling bike, the stalwart of our range. Arguably our most rewarding bike as well as one of the hardest to develop. At a little over 5.5kgs the Belter sets the standard.",
@@ -134,7 +134,7 @@
     {
       "id": 14,
       "name": "Bungi",
-      "price": 400,
+      "price": 149,
       "color": "yellow",
       "category": "k",
       "description": "Your child has mastered the art of riding a balance bike and it’s time to start spinning those pedals. Bungi’s LITE 14 is the first and only high-quality kids bicycle with a belt drive system for everybody that likes a clean and durable ride for their younglings.",
@@ -144,7 +144,7 @@
     {
       "id": 15,
       "name": "Earlywood",
-      "price": 400,
+      "price": 99,
       "color": "yellow",
       "category": "k",
       "description": "At only 3.2kgs, this bike is super lightweight and easy for the younger or less physical kids to manage. A more upright head tube angle, shortish wheel base and slimmer tyre means that when the restricted steering setting is off this is a fast, nimble bike that's a tonne of fun to ride too.",
@@ -154,7 +154,7 @@
     {
       "id": 16,
       "name": "Mia",
-      "price": 400,
+      "price": 129,
       "color": "pink",
       "category": "k",
       "description": "Forget noisy training wheels! There is no better way to teach your kids to ride thank to put them on a balance bike. Most children can start scooting around within a few hours, and the sense of balance they acquire will make it easy for them to step up to pedal bikes later. The Mia is uber cute and even comes with a minature wicker basket.",
@@ -164,7 +164,7 @@
     {
       "id": 17,
       "name": "Micky",
-      "price": 400,
+      "price": 199,
       "color": "blue",
       "category": "k",
       "description": "Forget noisy training wheels! There is no better way to teach your kids to ride thank to put them on a balance bike. Most children can start scooting around within a few hours, and the sense of balance they acquire will make it easy for them to step up to pedal bikes later. The Mia is uber cute and even comes with a minature wicker basket.",
@@ -174,7 +174,7 @@
     {
       "id": 18,
       "name": "Woom",
-      "price": 400,
+      "price": 229,
       "color": "red",
       "category": "k",
       "description": "Finally being able to learn to ride a bike makes a children's eyes twinkle! The woom 2 makes it easy for kids to switch from a balance bike to a pedal bike. In no time at all, kids intuitively learn the skills they need to ride: pushing the pedals, putting down their feet and balancing. With a woom bike, an important moment in childhood is made unforgettable!",
